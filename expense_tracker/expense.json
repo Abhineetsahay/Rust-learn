@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "amount": 1.0,
+    "category": "ab"
+  },
+  {
+    "id": 1,
+    "amount": 1000.0,
+    "category": "GYM"
+  }
+]
